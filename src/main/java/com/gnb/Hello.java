@@ -6,7 +6,7 @@ public class Hello {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		    String s;
+		    string a
             System.out.println("Hello Maven");
 	}
 
